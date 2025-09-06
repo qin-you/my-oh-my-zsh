@@ -1,8 +1,9 @@
-# tutorial:
-  1.  sudo apt install zsh
+# readme:
+this repo just for backup
 
-  2.  git clone this-repo  ~/.oh-my-zsh
-
-  3.  cd ~/.oh-my-zsh && ./install.sh
-
-  4.  enjoy.
+    install
+        use official way, download ./tools/install.sh, run it
+    plugin
+        refer this repo, download enabled custom plugins in .zshrc
+    config
+        no extra config generated so far
